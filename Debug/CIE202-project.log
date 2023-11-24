@@ -1,0 +1,13 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Bricks.cpp
+  Generating Code...
+  Compiling...
+  game.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  drawable.cpp
+  collidable.cpp
+  toolbar.cpp
+  grid.cpp
+  CIE202-project.vcxproj -> C:\Users\M Ali\Desktop\C++\Project\Project Startup Code\Debug\CIE202-project.exe
